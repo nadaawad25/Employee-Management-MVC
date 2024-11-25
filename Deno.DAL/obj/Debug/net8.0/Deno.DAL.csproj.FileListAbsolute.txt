@@ -1,0 +1,12 @@
+D:\.NET\MVC\Session3\Deno.DAL\bin\Debug\net8.0\Deno.DAL.deps.json
+D:\.NET\MVC\Session3\Deno.DAL\bin\Debug\net8.0\Deno.DAL.dll
+D:\.NET\MVC\Session3\Deno.DAL\bin\Debug\net8.0\Deno.DAL.pdb
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.csproj.AssemblyReference.cache
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.AssemblyInfoInputs.cache
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.AssemblyInfo.cs
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.csproj.CoreCompileInputs.cache
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.dll
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\refint\Deno.DAL.dll
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\Deno.DAL.pdb
+D:\.NET\MVC\Session3\Deno.DAL\obj\Debug\net8.0\ref\Deno.DAL.dll

@@ -1,0 +1,25 @@
+﻿@model UserViewModel
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (Model != null)
+{
+
+    <h1 class="alert alert-danger">Are You Sure to Delete @Model.FName @Model.LName</h1>
+    <div asp-validation-summary="All"></div>
+
+    <form asp-action="ConfirmDelete">
+        <partial name="PartialViews\_DetailsDeleteParialView.cshtml">
+            <input type="submit" value="Delete" class="btn btn-danger mt-5" />
+            <a asp-action="Index" class="btn btn-light mt-5">Back </a>
+    </form>
+}
+else
+{
+    <div class="alert alert-warning mt-5">
+        <h3>there is No employee</h3>
+    </div>
+
+}

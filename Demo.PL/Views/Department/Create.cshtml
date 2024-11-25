@@ -1,0 +1,39 @@
+﻿@model Department
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 >Create New Department</h1>
+<br />
+@foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+{
+    <div class="text-danger">@error.ErrorMessage</div>
+}
+
+<form asp-action="Create">
+
+<div class="form-group" >
+    <label class="col-form-label">Code</label>
+        <input class="form-control" asp-for="Code"/>
+        <span asp-validation-for="Code" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label">Name</label>
+    <input class="form-control" asp-for="Name" />
+    <span asp-validation-for="Name" class="text-danger"></span>
+</div>
+
+<div class="form-group">
+    <label class="col-form-label">DateOfCreation</label>
+    <input class="form-control" asp-for="DateOfCreation" />
+    <span asp-validation-for="DateOfCreation" class="text-danger"></span>
+</div>
+
+<input type="submit" value="submit" class="mt-5 btn btn-primary" />
+<a asp-action="Index" class="btn btn-light mt-5" >Back</a>
+
+</form>
+@section ValidationScriptSection {
+    <partial name="_ValidationScriptsPartial" />
+}

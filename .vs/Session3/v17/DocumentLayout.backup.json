@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET\\MVC\\Session3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|d:\\.net\\mvc\\session3\\demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|d:\\.net\\mvc\\session3\\demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|d:\\.net\\mvc\\session3\\demo.pl\\helper\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2022AFFB-89BA-4B78-AFC4-63D08E6C06A3}|Demo.PL\\Demo.PL.csproj|solutionrelative:demo.pl\\helper\\emailsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Program.cs",
+              "ToolTip": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Program.cs",
+              "RelativeToolTip": "Demo.PL\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:45:15.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Demo.PL\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:23:58.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailSetting.cs",
+              "DocumentMoniker": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Helper\\EmailSetting.cs",
+              "RelativeDocumentMoniker": "Demo.PL\\Helper\\EmailSetting.cs",
+              "ToolTip": "D:\\.NET\\MVC\\Session3\\Demo.PL\\Helper\\EmailSetting.cs",
+              "RelativeToolTip": "Demo.PL\\Helper\\EmailSetting.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T16:24:28.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
